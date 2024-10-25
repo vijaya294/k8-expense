@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mysql
-        image: vijaya294/mysql:v1
+        image: vijaya294/mysql:v1   #get this from my docker hub vijaya294
 ---
 kind: Service
 apiVersion: v1
